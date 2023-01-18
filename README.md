@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Richard Schwanka 😁
+## Bem-vindo(a) ao perfil de Richard Schwanka 😁
 
  <div>
    <a href="https://github.com/RichardSchwanka">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RichardSchwanka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardSchwanka&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=richardschwanka&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richardschwanka&layout=compact&langs_count=6&theme=merko"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -13,11 +13,7 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
- 
-<div> 
-   
-  ![Snake animation](https://github.com/RichardSchwanka/RichardSchwanka/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 </div>
